@@ -1,24 +1,22 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: https://santaevpavel.github.io/
-url: https://santaevpavel.github.io/
+title:            Santaeva Baira 
+tagline:          CV
+description:      CV
+canonical: https://obairka.github.io/
+url: https://obairka.github.io/
 
 title:            Santaev Pavel
 tagline:          Blog
-description:      Santaev Pavel's blog.
+description:      Santaeva Baira's blog.
 # Owner/author information
 owner:
-  name:           Pavel Santaev
+  name:           Baira Santaeva
   avatar:         avatar.png
   bio:            "Android Engeneer"
-  email:          santaevp@gmail.com
-  github:         santaevpavel
-  stackoverflow:  https://stackoverflow.com/users/6935045/pavel-santaev?tab=profile
-  linkedin:       https://www.linkedin.com/in/pavel-santaev-618891b7/
-  location:       "Novosibirsk, Russia"
-  disqus:         santaevpavel
-  # Plug in your disqus shortname!
+  email:          obairka@gmail.com
+  github:         obairka
+  stackoverflow:  https://stackoverflow.com/users/6935045/obairka?tab=profile
+  linkedin:       https://linkedin.com/in/baira-santaeva
+  location:       "Novosibirsk, Russia" 
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -34,11 +32,11 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/santaevpavel
+    url: https://github.com/obairka
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Novosibirsk
 future:      true
 highlighter: pygments
 markdown:    kramdown
