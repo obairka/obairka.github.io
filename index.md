@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Последние записи"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+  feature: altai.jpg
 ---

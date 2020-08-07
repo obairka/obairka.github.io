@@ -1,12 +1,9 @@
 title:            Santaeva Baira 
 tagline:          CV
-description:      CV
+description:      Santaeva Baira's blog.
 canonical: https://obairka.github.io/
 url: https://obairka.github.io/
 
-title:            Santaev Pavel
-tagline:          Blog
-description:      Santaeva Baira's blog.
 # Owner/author information
 owner:
   name:           Baira Santaeva
@@ -36,7 +33,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Novosibirsk
+timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
